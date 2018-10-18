@@ -1,4 +1,4 @@
-// main.go (web-server)
+// server.go (web-server)
 
 package main
 

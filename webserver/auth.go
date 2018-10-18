@@ -1,6 +1,6 @@
-// auth.go (api-server)
-
+//Package webserver implements common functionality (here Auth functionality)
 package main
+
 
 import (
     "bytes"
